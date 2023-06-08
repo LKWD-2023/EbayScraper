@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbayScraper.Web", "EbayScraper.Web\EbayScraper.Web.csproj", "{E025904B-66A0-437E-909C-8D5A10A3AAC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbayScraper.Data", "EbayScraper.Data\EbayScraper.Data.csproj", "{5B8441F3-D407-4771-A320-B6BD224E61D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E025904B-66A0-437E-909C-8D5A10A3AAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E025904B-66A0-437E-909C-8D5A10A3AAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E025904B-66A0-437E-909C-8D5A10A3AAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E025904B-66A0-437E-909C-8D5A10A3AAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8441F3-D407-4771-A320-B6BD224E61D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8441F3-D407-4771-A320-B6BD224E61D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8441F3-D407-4771-A320-B6BD224E61D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8441F3-D407-4771-A320-B6BD224E61D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA7D8326-F4BE-4374-917E-E82EC6FFD55D}
+	EndGlobalSection
+EndGlobal
